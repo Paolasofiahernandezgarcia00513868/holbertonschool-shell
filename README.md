@@ -1,1 +1,1 @@
-Este directorio contiene varios scripts
+Este repositorio contiene scripts ejecutables
